@@ -54,7 +54,7 @@ private RestauranteDAO restauranteDAO= new RestauranteDAOImpl();
 		Menu menu = new Menu();
 		TipoRestaurante resttipo = new TipoRestaurante();
       
-		restaurante.
+		
 		restaurante.setNombre("El taco mas grande");
 //		restaurante.setImagen("taco.png");
 //		restaurante.setSlogan("Vamos");
